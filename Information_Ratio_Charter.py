@@ -1,7 +1,6 @@
 import pandas_datareader as dr
 import pandas as pd
 import numpy as np
-import datetime
 from bokeh.plotting import figure, output_file, show
 from bokeh.models import ColumnDataSource, LabelSet, HoverTool
 
